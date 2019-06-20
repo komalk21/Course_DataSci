@@ -1,2 +1,2 @@
-# Course_DataSci
+# datasciencecoursera
 Course on Data Science
